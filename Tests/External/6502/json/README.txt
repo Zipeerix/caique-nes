@@ -1,0 +1,1 @@
+For 6502 json tests to run you need to clone https://github.com/TomHarte/ProcessorTests/tree/main/nes6502 and copy all json files to this directory
